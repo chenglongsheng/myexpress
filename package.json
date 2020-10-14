@@ -1,0 +1,25 @@
+{
+  "name": "myexpress",
+  "version": "1.0.0",
+  "description": "表单数据提交到数据库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cls688/myexpress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cls688/myexpress/issues"
+  },
+  "homepage": "https://github.com/cls688/myexpress#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {}
+}
